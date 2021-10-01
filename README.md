@@ -1,4 +1,4 @@
-# Project : Street-food Website
+# Project : Street-food Website.
 
 ## Author : Agnes Okutoyi
 
