@@ -1,0 +1,37 @@
+footer {
+    padding: 80px 120px 80px 120px;
+}
+
+footer-info {
+    padding: 80px 5px 80px 10px ;
+    display:flex;
+    justify-content: space-between;
+    background-color: var(--footer-bg);
+}
+
+wk-hrs{
+    display: inline-flex;
+    line-height: 2rem;
+}
+
+wk-hrs p, h4{
+    font-family: var(--font-type);
+}
+
+wk-hrs h4{
+    letter-spacing: 3rem;
+}
+ 
+times{
+    padding-right: 30px;
+    border-right: 3px dotted var(--light-green);
+    margin-right: 50px;
+}
+
+contact{
+    font-weight: 500;
+}
+small{
+    font-size: 1cm;
+    font-weight: lighter !important;
+}
