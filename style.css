@@ -57,9 +57,37 @@ nav-bar{
 }
 image4{
     transform: translate(150px, 70px);
-    
-}
 
+}
+{
+    padding: top; 10px;
+    border-radius: 25px;
+    position: relative;
+    bottom: 120px;
+    :left 35px;
+    font-size: 200px;
+}
+#white{
+    color: white;
+}
+.orbit{
+    height: 500px;
+    width: 500px;
+    border-radius: 100;
+    border-top-style: dotted;
+    margin-left: 600px;
+    position: absolute;
+    top: 200px;
+}
+.orbit img: :first-child{
+    position: absolute;
+    top: 15px
+    :left: -40px;
+}
+.orbit img:nth-child(3) {
+    position: absolute;
+    top: -35px;
+}
 
 
 
