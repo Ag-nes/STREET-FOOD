@@ -1,87 +1,66 @@
-footer {
-    padding: 80px 120px 80px 120px;
+body[
+    font-family: "lato Extended", lato, "Helvetica Neue" ,Arial, Helvetica, sans-serif;
+    over-flow: hidden;
 }
-
-footer-info {
-    padding: 80px 5px 80px 10px ;
-    display:flex;
+nav{
+    display: flex;
     justify-content: space-between;
-    background-color: var(--footer-bg);
+    padding-left: 100px;
+    padding-right: 100px;
 }
-
-wk-hrs{
-    display: inline-flex;
-    line-height: 2rem;
+nav .column ul li{
+    list-style: none;
+    display; inline;
+    padding: 40px;
 }
-
-wk-hrs p, h4{
-    font-family: var(--font-type);
+nav .column ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
 }
-
-wk-hrs h4{
-    letter-spacing: 3rem;
+#Street{
+    color: #6cb840;
 }
- 
-times{
-    padding-right: 30px;
-    border-right: 3px dotted var(--light-green);
-    margin-right: 50px;
+#food{
+    color: yellow:
 }
-
-contact{
-    font-weight: 500;
+nav-bar{
+    background-color: #e5e5e5
+    height: 800px;
+    overflow: hidden;
 }
-small{
-    font-size: 1cm;
-    font-weight: lighter !important;
-}
-Images{
+.images{
     width: 600px;
     height: 600px;
     border-radius: 50%;
     border: 2px dotted #6cb840;
     position: relative;
-    z-index: 2
+    z-index: 2;
     margin-right: 150px;
 }
 #image1{
     transform: translate(-40px, 200px);
     position: relative;
     z-index: 1;
-
 }
 #image2{
-    transform: translate(-73px, 30px);  
-
+    transform: translate(-73px, -35px);
 }
 #image3{
-    transform: translate(70px, 70px);
-
+    transform: translate(70px, -70px);
 }
 #image6{
-    transform: translate(550px, 80px);
-
+    transform: translate(550px, 90px);
 }
-#image4{
-    transform: translate(130px, 75px);
-
+#image6{
+    transform: translate(-220px, 250px);
 }
-#image5[
-    transform: translate(-220px, 260px);
-
-]
-
-circle[
-    width: 1300px;
-    height: 1300px;
-    border-radius: 50%;
-    background-color; #BBE79C ;
-    margin-left: 600px;
-    transform: translateY(-1550px) ;
-]
-
-.column{
-    position: relative;
+image4{
+    transform: translate(150px, 70px);
+    
 }
+
+
+
 
 
