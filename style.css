@@ -35,3 +35,53 @@ small{
     font-size: 1cm;
     font-weight: lighter !important;
 }
+Images{
+    width: 600px;
+    height: 600px;
+    border-radius: 50%;
+    border: 2px dotted #6cb840;
+    position: relative;
+    z-index: 2
+    margin-right: 150px;
+}
+#image1{
+    transform: translate(-40px, 200px);
+    position: relative;
+    z-index: 1;
+
+}
+#image2{
+    transform: translate(-73px, 30px);  
+
+}
+#image3{
+    transform: translate(70px, 70px);
+
+}
+#image6{
+    transform: translate(550px, 80px);
+
+}
+#image4{
+    transform: translate(130px, 75px);
+
+}
+#image5[
+    transform: translate(-220px, 260px);
+
+]
+
+circle[
+    width: 1300px;
+    height: 1300px;
+    border-radius: 50%;
+    background-color; #BBE79C ;
+    margin-left: 600px;
+    transform: translateY(-1550px) ;
+]
+
+.column{
+    position: relative;
+}
+
+
