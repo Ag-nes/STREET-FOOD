@@ -60,22 +60,22 @@ image4{
 
 }
 {
-    padding: top; 10px;
-    border-radius: 25px;
+    padding: top; 20px;
+    border-radius: 30px;
     position: relative;
     bottom: 120px;
     :left 35px;
     font-size: 200px;
 }
 #white{
-    color: white;
+    color: #AFD275;
 }
 .orbit{
     height: 500px;
     width: 500px;
-    border-radius: 100;
+    border-radius: 100%;
     border-top-style: dotted;
-    margin-left: 600px;
+    margin-left: 500px;
     position: absolute;
     top: 200px;
 }
@@ -86,9 +86,12 @@ image4{
 }
 .orbit img:nth-child(3) {
     position: absolute;
-    top: -35px;
+    top: -40px;
 }
 
-
+*foot{
+    display: flex
+        justify-content : space-between
+        margin-top: 200px
 
 
