@@ -6,7 +6,6 @@
 
 ## Languages used : HTML and CSS
 
-## Installation : To make this project a success, the Visual Studio Code has come in handy with the styling of codes,
-while the terminal has helped in running the codes.
+## Installation : To make this project a success, the Visual Studio Code has come in handy with the styling of codes, while the terminal has helped in running the codes.
 
 ## Licence : [MIT](@2021-Agnes Okutoyi)
